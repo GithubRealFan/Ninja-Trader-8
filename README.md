@@ -4,7 +4,7 @@ Basic to good C# programming development and NinjaTrader 8 skills are required.
 
 **ATSQuadroStrategyBase**
 Hybrid Algorithmic Trading Framework NinjaTrader 8 UnManaged Trade Engine for Automated Trading Systems.
-Developer: Tom Leeson of MicroTrends LTd www.microtrends.pro
+Developer: Tom Leeson of MicroTrends LTd www.microtrends.pro 
 
 **Status**
 This project is ongoing slowly...will be evolved as time and resources allow and needs dictates
