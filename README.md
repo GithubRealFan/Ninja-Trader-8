@@ -17,7 +17,7 @@ https://github.com/MicroTrendsLtd/NinjaTrader8/discussions
 
 **2. Installation:**
 https://github.com/MicroTrendsLtd/NinjaTrader8/discussions/61
-
+ 
 **3. NT8 Code Editor Setup:**
 https://github.com/MicroTrendsLtd/NinjaTrader8/discussions/65
 
