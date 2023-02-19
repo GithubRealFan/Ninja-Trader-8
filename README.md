@@ -22,7 +22,7 @@ https://github.com/MicroTrendsLtd/NinjaTrader8/discussions/61
 https://github.com/MicroTrendsLtd/NinjaTrader8/discussions/65
 
 **4. Launch the strategy in NT8:**
-Within NT8 After compiling connect to a datafeed and start a strategy: ATSSamplePriceReversalTestHybridAlgo.cs
+Within NT8 After compiling connect to a datafeed and start a strategy: ATSSamplePriceReversalTestHybridAlgo.cs 
 
 **5. Issues bugs post here:**
 https://github.com/MicroTrendsLtd/NinjaTrader8/issues
