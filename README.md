@@ -2,7 +2,7 @@
 NinjaTrader8 Components Strategies and Trading tools
 Basic to good C# programming development and NinjaTrader 8 skills are required.
  
-**ATSQuadroStrategyBase**
+**ATSQuadroStrategyBase** 
 Hybrid Algorithmic Trading Framework NinjaTrader 8 UnManaged Trade Engine for Automated Trading Systems.
 Developer: Tom Leeson of MicroTrends LTd www.microtrends.pro 
  
