@@ -11,7 +11,7 @@ This project is ongoing slowly...will be evolved as time and resources allow and
 
 **Collaborate & Discuss**
 All welcome to contribute discuss share collaborate. 
-
+ 
 **1. Get Started - Docs:**
 https://github.com/MicroTrendsLtd/NinjaTrader8/discussions
 
